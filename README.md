@@ -12,6 +12,7 @@
   <img alt="Dart" src="https://img.shields.io/badge/Dart-%E2%81%AD%E2%81%AD%E2%81%AD-blue" /> 
   <img alt="Python" src="https://img.shields.io/badge/Python-%E2%81%AD%E2%81%AD%E2%81%AD-yellow" /> 
   <img alt="SCSS" src="https://img.shields.io/badge/Vue-%E2%81%AD%E2%81%AD%E2%81%AD-purple" /> 
+  <br/>
   <img alt="C#" src="https://img.shields.io/badge/C%23-%E2%81%AD%E2%81%AD%E2%81%AD-purple" /> 
   <img alt="Javascript" src="https://img.shields.io/badge/Javascript-%E2%81%AD%E2%81%AD%E2%81%AD-yellow" /> 
   <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-%E2%81%AD%E2%81%AD%E2%81%AD-blue" /> 
@@ -29,6 +30,7 @@
   <img alt="WPF" src="https://img.shields.io/badge/WPF-%E2%81%AD%E2%81%AD%E2%81%AD-blue" /> 
   <img alt="ASP.NET" src="https://img.shields.io/badge/ASP.NET-%E2%81%AD%E2%81%AD%E2%81%AD-blue" /> 
   <img alt="Node.js" src="https://img.shields.io/badge/Node.JS-%E2%81%AD%E2%81%AD%E2%81%AD-green" /> 
+  <br/>
   <img alt="Blazor" src="https://img.shields.io/badge/Blazor-%E2%81%AD%E2%81%AD%E2%81%AD-purple" /> 
   <img alt="Android" src="https://img.shields.io/badge/Android-%E2%81%AD%E2%81%AD%E2%81%AD-green" /> 
   <img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-%E2%81%AD%E2%81%AD%E2%81%AD-orange" /> 
