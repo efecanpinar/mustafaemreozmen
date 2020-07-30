@@ -1,5 +1,4 @@
 <p>Welcome to my page! </br>
-  <img alt="Welcome" src="https://media1.tenor.com/images/ae74ed1ebbdb5ac84e008d978064ab50/tenor.gif?itemid=15830260" width="300" height="300">
   <br/>
   I'm Mustafa, Fullstack developer from <img src="https://image.flaticon.com/icons/svg/940/940164.svg" width="13"/> <b>Istanbul, Turkey</b>. </p>
 
