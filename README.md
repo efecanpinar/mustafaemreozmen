@@ -27,6 +27,7 @@
   <img alt="React" src="https://img.shields.io/badge/React-%E2%81%AD%E2%81%AD%E2%81%AD-blue" />
   <img alt="Redis" src="https://img.shields.io/badge/Redis-%E2%81%AD%E2%81%AD%E2%81%AD-red" /> 
   <img alt="WCF" src="https://img.shields.io/badge/WCF-%E2%81%AD%E2%81%AD%E2%81%AD-blue" /> 
+  <br/>
   <img alt="WPF" src="https://img.shields.io/badge/WPF-%E2%81%AD%E2%81%AD%E2%81%AD-blue" /> 
   <img alt="ASP.NET" src="https://img.shields.io/badge/ASP.NET-%E2%81%AD%E2%81%AD%E2%81%AD-blue" /> 
   <img alt="Node.js" src="https://img.shields.io/badge/Node.JS-%E2%81%AD%E2%81%AD%E2%81%AD-green" /> 
@@ -34,7 +35,8 @@
   <img alt="Blazor" src="https://img.shields.io/badge/Blazor-%E2%81%AD%E2%81%AD%E2%81%AD-purple" /> 
   <img alt="Android" src="https://img.shields.io/badge/Android-%E2%81%AD%E2%81%AD%E2%81%AD-green" /> 
   <img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-%E2%81%AD%E2%81%AD%E2%81%AD-orange" /> 
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-%E2%81%AD%E2%81%AD%E2%81%AD-blue" /> 
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-%E2%81%AD%E2%81%AD%E2%81%AD-blue" />
+  <br/>
   <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-%E2%81%AD%E2%81%AD%E2%81%AD-blue" /> 
   <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-%E2%81%AD%E2%81%AD%E2%81%AD-purple" /> 
   <img alt="RESTFUL" src="https://img.shields.io/badge/RESTFUL-%E2%81%AD%E2%81%AD%E2%81%AD-black" /> 
