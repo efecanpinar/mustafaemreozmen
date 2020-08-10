@@ -11,7 +11,6 @@
   <img alt="T-SQL" src="https://img.shields.io/badge/TSQL-%E2%81%AD%E2%81%AD%E2%81%AD-red" /> 
   <img alt="Dart" src="https://img.shields.io/badge/Dart-%E2%81%AD%E2%81%AD%E2%81%AD-blue" /> 
   <img alt="Python" src="https://img.shields.io/badge/Python-%E2%81%AD%E2%81%AD%E2%81%AD-yellow" /> 
-  <img alt="SCSS" src="https://img.shields.io/badge/Vue-%E2%81%AD%E2%81%AD%E2%81%AD-purple" /> 
   <br/>
   <img alt="C#" src="https://img.shields.io/badge/C%23-%E2%81%AD%E2%81%AD%E2%81%AD-purple" /> 
   <img alt="Javascript" src="https://img.shields.io/badge/Javascript-%E2%81%AD%E2%81%AD%E2%81%AD-yellow" /> 
