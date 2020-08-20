@@ -42,14 +42,14 @@
 </p>
 
 <p>
-  <b>Mail:</b>mustafa.eozmen@gmail.com
+  <b>Mail: </b>mustafa.eozmen@gmail.com
 </p>
 <p>
-  <b>Linkedin:</b>linkedin.com/in/mustafaemreozmen
+  <b>Linkedin: </b>linkedin.com/in/mustafaemreozmen
 </p>
 <p>
-  <b>Github:</b>github.com/mustafaemreozmen
+  <b>Github: </b>github.com/mustafaemreozmen
 </p>
 <p>
-  <b>Medium:</b>medium.com/@mustafa.eozmen
+  <b>Medium: </b>medium.com/@mustafa.eozmen
 </p>
