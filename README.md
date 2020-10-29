@@ -3,9 +3,9 @@
 I'm Mustafa, Full-Stack developer from <img src="https://image.flaticon.com/icons/svg/940/940164.svg" width="12" height="22" /> **Istanbul, Turkey**.
 
 Currently working **@Ford Otosan** <img src="https://image.flaticon.com/icons/svg/806/806092.svg" width="12" height="22" />
-
-#### Some Languages I Code With
 ---
+#### Some Languages I Code With
+
 ![C++](https://img.shields.io/badge/C++-%E2%81%AD%E2%81%AD%E2%81%AD-blue)
 ![PL/SQL](https://img.shields.io/badge/PLSQL-%E2%81%AD%E2%81%AD%E2%81%AD-red)
 ![T-SQL](https://img.shields.io/badge/TSQL-%E2%81%AD%E2%81%AD%E2%81%AD-red) 
@@ -18,7 +18,7 @@ Currently working **@Ford Otosan** <img src="https://image.flaticon.com/icons/sv
 ![Kotlin](https://img.shields.io/badge/Kotlin-%E2%81%AD%E2%81%AD%E2%81%AD-purple)
 ![Powershell](https://img.shields.io/badge/Powershell-%E2%81%AD%E2%81%AD%E2%81%AD-black)
 ![Go](https://img.shields.io/badge/Go-%E2%81%AD%E2%81%AD%E2%81%AD-blue)
-
+---
 #### Things I Code With
 
 ![Vue](https://img.shields.io/badge/Vue-%E2%81%AD%E2%81%AD%E2%81%AD-green)
@@ -38,7 +38,7 @@ Currently working **@Ford Otosan** <img src="https://image.flaticon.com/icons/sv
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%E2%81%AD%E2%81%AD%E2%81%AD-blue) 
 ![GraphQL](https://img.shields.io/badge/GraphQL-%E2%81%AD%E2%81%AD%E2%81%AD-purple) 
 ![RESTFUL](https://img.shields.io/badge/RESTFUL-%E2%81%AD%E2%81%AD%E2%81%AD-black)
-
+---
 #### You Can Also Find Me Here
 
 **[Mail](mailto:mustafa.eozmen@gmail.com)**
@@ -48,3 +48,4 @@ Currently working **@Ford Otosan** <img src="https://image.flaticon.com/icons/sv
 **[Github](github.com/mustafaemreozmen)**
 
 **[Medium](medium.com/@mustafa.eozmen)**
+---
