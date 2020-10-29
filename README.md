@@ -1,10 +1,10 @@
-###### Welcome to my page!
+## Welcome To My Page!
 
 I'm Mustafa, Full-Stack developer from <img src="https://image.flaticon.com/icons/svg/940/940164.svg" width="12" height="22" /> **Istanbul, Turkey**.
 
 Currently working **@Ford Otosan** <img src="https://image.flaticon.com/icons/svg/806/806092.svg" width="12" height="22" />
 
-### Some languages I code with
+#### Some Languages I Code With
 ---
 ![C++](https://img.shields.io/badge/C++-%E2%81%AD%E2%81%AD%E2%81%AD-blue)
 ![PL/SQL](https://img.shields.io/badge/PLSQL-%E2%81%AD%E2%81%AD%E2%81%AD-red)
@@ -19,7 +19,7 @@ Currently working **@Ford Otosan** <img src="https://image.flaticon.com/icons/sv
 ![Powershell](https://img.shields.io/badge/Powershell-%E2%81%AD%E2%81%AD%E2%81%AD-black)
 ![Go](https://img.shields.io/badge/Go-%E2%81%AD%E2%81%AD%E2%81%AD-blue)
 
-### Things I code with
+#### Things I Code With
 
 ![Vue](https://img.shields.io/badge/Vue-%E2%81%AD%E2%81%AD%E2%81%AD-green)
 ![React](https://img.shields.io/badge/React-%E2%81%AD%E2%81%AD%E2%81%AD-blue)
@@ -39,7 +39,12 @@ Currently working **@Ford Otosan** <img src="https://image.flaticon.com/icons/sv
 ![GraphQL](https://img.shields.io/badge/GraphQL-%E2%81%AD%E2%81%AD%E2%81%AD-purple) 
 ![RESTFUL](https://img.shields.io/badge/RESTFUL-%E2%81%AD%E2%81%AD%E2%81%AD-black)
 
+#### You Can Also Find Me Here
+
 **[Mail](mailto:mustafa.eozmen@gmail.com)**
+
 **[Linkedin](linkedin.com/in/mustafaemreozmen)**
+
 **[Github](github.com/mustafaemreozmen)**
+
 **[Medium](medium.com/@mustafa.eozmen)**
