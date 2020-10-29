@@ -1,55 +1,45 @@
-<p>Welcome to my page! </br>
-  <br/>
-  I'm Mustafa, Fullstack developer from <img src="https://image.flaticon.com/icons/svg/940/940164.svg" width="13"/> <b>Istanbul, Turkey</b>. </p>
+###### Welcome to my page!
 
-<p>I'm working <b>@Ford Otosan </b><img src="https://image.flaticon.com/icons/svg/806/806092.svg" width="13"/></p>
+I'm Mustafa, Full-Stack developer from ![Turkey](https://image.flaticon.com/icons/svg/940/940164.svg) **Istanbul, Turkey**.
 
-<h3>Some languages I code with</h3>
-<p>
-  <img alt="C++" src="https://img.shields.io/badge/C++-%E2%81%AD%E2%81%AD%E2%81%AD-blue" /> 
-  <img alt="PL/SQL" src="https://img.shields.io/badge/PLSQL-%E2%81%AD%E2%81%AD%E2%81%AD-red" /> 
-  <img alt="T-SQL" src="https://img.shields.io/badge/TSQL-%E2%81%AD%E2%81%AD%E2%81%AD-red" /> 
-  <img alt="Dart" src="https://img.shields.io/badge/Dart-%E2%81%AD%E2%81%AD%E2%81%AD-blue" /> 
-  <img alt="Python" src="https://img.shields.io/badge/Python-%E2%81%AD%E2%81%AD%E2%81%AD-yellow" /> 
-  <br/>
-  <img alt="C#" src="https://img.shields.io/badge/C%23-%E2%81%AD%E2%81%AD%E2%81%AD-purple" /> 
-  <img alt="Javascript" src="https://img.shields.io/badge/Javascript-%E2%81%AD%E2%81%AD%E2%81%AD-yellow" /> 
-  <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-%E2%81%AD%E2%81%AD%E2%81%AD-blue" /> 
-  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-%E2%81%AD%E2%81%AD%E2%81%AD-purple" /> 
-  <img alt="Powershell" src="https://img.shields.io/badge/Powershell-%E2%81%AD%E2%81%AD%E2%81%AD-black" /> 
-  <img alt="Go" src="https://img.shields.io/badge/Go-%E2%81%AD%E2%81%AD%E2%81%AD-blue" /> 
-</p>
+Currently working **@Ford Otosan** ![Ford Otosan](https://image.flaticon.com/icons/svg/806/806092.svg)
 
-<h3>Things I code with</h3>
-<p>
-  <img alt="Vue" src="https://img.shields.io/badge/Vue-%E2%81%AD%E2%81%AD%E2%81%AD-green" /> 
-  <img alt="React" src="https://img.shields.io/badge/React-%E2%81%AD%E2%81%AD%E2%81%AD-blue" />
-  <img alt="Redis" src="https://img.shields.io/badge/Redis-%E2%81%AD%E2%81%AD%E2%81%AD-red" /> 
-  <img alt="WCF" src="https://img.shields.io/badge/WCF-%E2%81%AD%E2%81%AD%E2%81%AD-blue" /> 
-  <br/>
-  <img alt="WPF" src="https://img.shields.io/badge/WPF-%E2%81%AD%E2%81%AD%E2%81%AD-blue" /> 
-  <img alt="ASP.NET" src="https://img.shields.io/badge/ASP.NET-%E2%81%AD%E2%81%AD%E2%81%AD-blue" /> 
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.JS-%E2%81%AD%E2%81%AD%E2%81%AD-green" /> 
-  <br/>
-  <img alt="Blazor" src="https://img.shields.io/badge/Blazor-%E2%81%AD%E2%81%AD%E2%81%AD-purple" /> 
-  <img alt="Android" src="https://img.shields.io/badge/Android-%E2%81%AD%E2%81%AD%E2%81%AD-green" /> 
-  <img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-%E2%81%AD%E2%81%AD%E2%81%AD-orange" /> 
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-%E2%81%AD%E2%81%AD%E2%81%AD-blue" />
-  <br/>
-  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-%E2%81%AD%E2%81%AD%E2%81%AD-blue" /> 
-  <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-%E2%81%AD%E2%81%AD%E2%81%AD-purple" /> 
-  <img alt="RESTFUL" src="https://img.shields.io/badge/RESTFUL-%E2%81%AD%E2%81%AD%E2%81%AD-black" /> 
-</p>
+### Some languages I code with
+---
+![C++](https://img.shields.io/badge/C++-%E2%81%AD%E2%81%AD%E2%81%AD-blue)
+![PL/SQL](https://img.shields.io/badge/PLSQL-%E2%81%AD%E2%81%AD%E2%81%AD-red)
+![T-SQL](https://img.shields.io/badge/TSQL-%E2%81%AD%E2%81%AD%E2%81%AD-red) 
+![Dart](https://img.shields.io/badge/Dart-%E2%81%AD%E2%81%AD%E2%81%AD-blue) 
+![Python](https://img.shields.io/badge/Python-%E2%81%AD%E2%81%AD%E2%81%AD-yellow) 
 
-<p>
-  <b>Mail: </b>mustafa.eozmen@gmail.com
-</p>
-<p>
-  <b>Linkedin: </b>linkedin.com/in/mustafaemreozmen
-</p>
-<p>
-  <b>Github: </b>github.com/mustafaemreozmen
-</p>
-<p>
-  <b>Medium: </b>medium.com/@mustafa.eozmen
-</p>
+![C#](https://img.shields.io/badge/C%23-%E2%81%AD%E2%81%AD%E2%81%AD-purple)
+![Javascript](https://img.shields.io/badge/Javascript-%E2%81%AD%E2%81%AD%E2%81%AD-yellow)
+![Typescript](https://img.shields.io/badge/TypeScript-%E2%81%AD%E2%81%AD%E2%81%AD-blue)
+![Kotlin](https://img.shields.io/badge/Kotlin-%E2%81%AD%E2%81%AD%E2%81%AD-purple)
+![Powershell](https://img.shields.io/badge/Powershell-%E2%81%AD%E2%81%AD%E2%81%AD-black)
+![Go](https://img.shields.io/badge/Go-%E2%81%AD%E2%81%AD%E2%81%AD-blue)
+
+### Things I code with
+
+![Vue](https://img.shields.io/badge/Vue-%E2%81%AD%E2%81%AD%E2%81%AD-green)
+![React](https://img.shields.io/badge/React-%E2%81%AD%E2%81%AD%E2%81%AD-blue)
+![Redis](https://img.shields.io/badge/Redis-%E2%81%AD%E2%81%AD%E2%81%AD-red)
+![WCF](https://img.shields.io/badge/WCF-%E2%81%AD%E2%81%AD%E2%81%AD-blue)
+
+![WPF](https://img.shields.io/badge/WPF-%E2%81%AD%E2%81%AD%E2%81%AD-blue)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-%E2%81%AD%E2%81%AD%E2%81%AD-blue)
+![Node.js](https://img.shields.io/badge/Node.JS-%E2%81%AD%E2%81%AD%E2%81%AD-green)
+
+![Blazor](https://img.shields.io/badge/Blazor-%E2%81%AD%E2%81%AD%E2%81%AD-purple) 
+![Android](https://img.shields.io/badge/Android-%E2%81%AD%E2%81%AD%E2%81%AD-green) 
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%E2%81%AD%E2%81%AD%E2%81%AD-orange) 
+![Docker](https://img.shields.io/badge/Docker-%E2%81%AD%E2%81%AD%E2%81%AD-blue)
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%E2%81%AD%E2%81%AD%E2%81%AD-blue) 
+![GraphQL](https://img.shields.io/badge/GraphQL-%E2%81%AD%E2%81%AD%E2%81%AD-purple) 
+![RESTFUL](https://img.shields.io/badge/RESTFUL-%E2%81%AD%E2%81%AD%E2%81%AD-black)
+
+**[Mail](mailto:mustafa.eozmen@gmail.com)**
+**[Linkedin](linkedin.com/in/mustafaemreozmen)**
+**[Github](github.com/mustafaemreozmen)**
+**[Medium](medium.com/@mustafa.eozmen)**
