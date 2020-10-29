@@ -1,8 +1,8 @@
 ###### Welcome to my page!
 
-I'm Mustafa, Full-Stack developer from ![Turkey](https://image.flaticon.com/icons/svg/940/940164.svg) **Istanbul, Turkey**.
+I'm Mustafa, Full-Stack developer from ![Turkey](https://image.flaticon.com/icons/svg/940/940164.svg){:height="12px" width="12px"} **Istanbul, Turkey**.
 
-Currently working **@Ford Otosan** ![Ford Otosan](https://image.flaticon.com/icons/svg/806/806092.svg)
+Currently working **@Ford Otosan** ![Ford Otosan](https://image.flaticon.com/icons/svg/806/806092.svg){:height="12px" width="12px"}
 
 ### Some languages I code with
 ---
