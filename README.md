@@ -6,53 +6,68 @@ Currently working **@Intertech** <img src="https://www.teknoparkistanbul.com.tr/
 
 ---
 
-#### Some Languages I Code With
+#### me.json
 
-![C++](https://img.shields.io/badge/C++-%E2%81%AD%E2%81%AD%E2%81%AD-blue)
-![PL/SQL](https://img.shields.io/badge/PLSQL-%E2%81%AD%E2%81%AD%E2%81%AD-red)
-![T-SQL](https://img.shields.io/badge/TSQL-%E2%81%AD%E2%81%AD%E2%81%AD-red) 
-![Dart](https://img.shields.io/badge/Dart-%E2%81%AD%E2%81%AD%E2%81%AD-blue) 
-![Python](https://img.shields.io/badge/Python-%E2%81%AD%E2%81%AD%E2%81%AD-yellow) 
-
-![C#](https://img.shields.io/badge/C%23-%E2%81%AD%E2%81%AD%E2%81%AD-purple)
-![Javascript](https://img.shields.io/badge/Javascript-%E2%81%AD%E2%81%AD%E2%81%AD-yellow)
-![Typescript](https://img.shields.io/badge/TypeScript-%E2%81%AD%E2%81%AD%E2%81%AD-blue)
-![Kotlin](https://img.shields.io/badge/Kotlin-%E2%81%AD%E2%81%AD%E2%81%AD-purple)
-![Powershell](https://img.shields.io/badge/Powershell-%E2%81%AD%E2%81%AD%E2%81%AD-black)
-![Go](https://img.shields.io/badge/Go-%E2%81%AD%E2%81%AD%E2%81%AD-blue)
-
----
-
-#### Things I Code With
-
-![Vue](https://img.shields.io/badge/Vue-%E2%81%AD%E2%81%AD%E2%81%AD-green)
-![React](https://img.shields.io/badge/React-%E2%81%AD%E2%81%AD%E2%81%AD-blue)
-![Redis](https://img.shields.io/badge/Redis-%E2%81%AD%E2%81%AD%E2%81%AD-red)
-![WCF](https://img.shields.io/badge/WCF-%E2%81%AD%E2%81%AD%E2%81%AD-blue)
-
-![WPF](https://img.shields.io/badge/WPF-%E2%81%AD%E2%81%AD%E2%81%AD-blue)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-%E2%81%AD%E2%81%AD%E2%81%AD-blue)
-![Node.js](https://img.shields.io/badge/Node.JS-%E2%81%AD%E2%81%AD%E2%81%AD-green)
-
-![Blazor](https://img.shields.io/badge/Blazor-%E2%81%AD%E2%81%AD%E2%81%AD-purple) 
-![Android](https://img.shields.io/badge/Android-%E2%81%AD%E2%81%AD%E2%81%AD-green) 
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%E2%81%AD%E2%81%AD%E2%81%AD-orange) 
-![Docker](https://img.shields.io/badge/Docker-%E2%81%AD%E2%81%AD%E2%81%AD-blue)
-
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%E2%81%AD%E2%81%AD%E2%81%AD-blue) 
-![GraphQL](https://img.shields.io/badge/GraphQL-%E2%81%AD%E2%81%AD%E2%81%AD-purple) 
-![RESTFUL](https://img.shields.io/badge/RESTFUL-%E2%81%AD%E2%81%AD%E2%81%AD-black)
-
----
-
-#### You Can Also Find Me Here
-
-**[Mail](mailto:mustafa.eozmen@gmail.com)**
-
-**[Linkedin](linkedin.com/in/mustafaemreozmen)**
-
-**[Github](github.com/mustafaemreozmen)**
-
-**[Medium](medium.com/@mustafa.eozmen)**
-
----
+{
+   "schoolHistory":{
+      "highSchool":{
+         "name":"ÇBAL",
+         "majorIn":"",
+         "startDate":2013,
+         "endDate":2017
+      },
+      "university":{
+         "name":"SAU",
+         "majorIn":"Computer Science",
+         "startDate":2017,
+         "endDate":"2021... Maybe."
+      }
+   },
+   "workingHistory":{
+      "ex":{
+         "firm":"Ford Otosan",
+         "title":"Jr. Software Developer"
+      },
+      "now":{
+         "firm":"Intertech",
+         "title":"Software Engineer"
+      }
+   },
+   "knownLanguages":[
+      "C++",
+      "PL/SQL",
+      "T-SQL",
+      "Dart",
+      "Python",
+      "C#",
+      "Javascript",
+      "Typescript",
+      "Kotlin",
+      "Powershell",
+      "Go"
+   ],
+   "enthusiastTo":[
+      "Blazor",
+      "Vue",
+      "React",
+      "Redis",
+      "WCF",
+      "WPF",
+      "ASP.NET",
+      "Node.js",
+      "Native Android",
+      "React Native",
+      "Flutter",
+      "RabbitMQ",
+      "Docker",
+      "Kubernetes",
+      "GraphQL"
+   ],
+   "socialMedia":{
+      "mailAddress":"mustafa.eozmen@gmail.com",
+      "youtube":"https://www.youtube.com/channel/UCElLT4A8LVChrLt60W6rvbA",
+      "twitter":"https://twitter.com/mustafaemreozm",
+      "linkedin":"https://www.linkedin.com/in/mustafaemreozmen/",
+      "medium":"https://medium.com/@mustafa.eozmen"
+   }
+}
