@@ -69,7 +69,7 @@ Currently working **@Intertech** <img src="https://www.teknoparkistanbul.com.tr/
       "youtube":"https://www.youtube.com/channel/UCElLT4A8LVChrLt60W6rvbA",
       "twitter":"https://twitter.com/mustafaemreozm",
       "linkedin":"https://www.linkedin.com/in/mustafaemreozmen/",
-      "medium":"https://medium.com/@mustafa.eozmen"
+      "medium":"https://mustafaemreozmen.medium.com/"
    }
 }
 ```
